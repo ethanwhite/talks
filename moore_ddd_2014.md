@@ -1,5 +1,4 @@
-## Links for Ethan White's seminar at the Moore Foundation Data Driven Discovery
-   Investigators Competition Finalists Symposium, July 28th, 2014.
+## Links for Ethan White's seminar at the Moore Foundation Data Driven Discovery Investigators Competition Finalists Symposium, July 28th, 2014.
 
 ### Talk
 
