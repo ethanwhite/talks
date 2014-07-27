@@ -1,4 +1,8 @@
-## Links for Ethan White's seminar at the Moore Foundation Data Driven Discovery Investigators Competition Finalists Symposium, July 28th, 2014.
+## Links for Ethan White's Moore Foundation seminar
+
+These are links to open science material related to Ethan White's talk at the
+Moore Foundation Data Driven Discovery Investigators Competition Finalists
+Symposium, July 28th, 2014.
 
 ### Talk
 
