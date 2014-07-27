@@ -3,6 +3,8 @@
 
 ### [Slides]()
 
+### [Proposal](https://github.com/ethanwhite/moore-ddd/raw/master/full_proposal.pdf)
+
 ### Testing theories in data-intensive ways
 
 * Cross-project:
