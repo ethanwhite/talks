@@ -6,7 +6,7 @@ Symposium, July 28th, 2014.
 
 ### Talk
 
-* [Slides]()
+* [Slides](http://dx.doi.org/10.6084/m9.figshare.1119641)
 * [Proposal](https://github.com/ethanwhite/moore-ddd/raw/master/full_proposal.pdf)
 
 ### Testing theories in data-intensive ways
